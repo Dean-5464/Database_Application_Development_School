@@ -1,0 +1,10 @@
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\bin\Debug\ListBox Assignment.exe.config
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\bin\Debug\ListBox Assignment.exe
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\bin\Debug\ListBox Assignment.pdb
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox Assignment.csprojAssemblyReference.cache
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox_Assignment.Form1.resources
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox_Assignment.Properties.Resources.resources
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox Assignment.csproj.GenerateResource.cache
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox Assignment.csproj.CoreCompileInputs.cache
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox Assignment.exe
+C:\Users\deank\source\repos\ListBox Assignment\ListBox Assignment\obj\Debug\ListBox Assignment.pdb
