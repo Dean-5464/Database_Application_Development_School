@@ -1,0 +1,9 @@
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\bin\Debug\RadioButton Assignemnt.exe.config
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\bin\Debug\RadioButton Assignemnt.exe
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\bin\Debug\RadioButton Assignemnt.pdb
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\obj\Debug\RadioButton_Assignemnt.Form1.resources
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\obj\Debug\RadioButton_Assignemnt.Properties.Resources.resources
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\obj\Debug\RadioButton Assignemnt.csproj.GenerateResource.cache
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\obj\Debug\RadioButton Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\obj\Debug\RadioButton Assignemnt.exe
+C:\Users\deank\source\repos\RadioButton Assignemnt\RadioButton Assignemnt\obj\Debug\RadioButton Assignemnt.pdb

@@ -1,0 +1,10 @@
+C:\Users\deank\source\repos\Project_10\Project_10\bin\Debug\Project_10.exe.config
+C:\Users\deank\source\repos\Project_10\Project_10\bin\Debug\Project_10.exe
+C:\Users\deank\source\repos\Project_10\Project_10\bin\Debug\Project_10.pdb
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.csprojAssemblyReference.cache
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.Form1.resources
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.Properties.Resources.resources
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.csproj.GenerateResource.cache
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.csproj.CoreCompileInputs.cache
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.exe
+C:\Users\deank\source\repos\Project_10\Project_10\obj\Debug\Project_10.pdb
