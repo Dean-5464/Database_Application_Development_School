@@ -1,0 +1,9 @@
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\bin\Debug\MenuStrip Assignment.exe.config
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\bin\Debug\MenuStrip Assignment.exe
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\bin\Debug\MenuStrip Assignment.pdb
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\obj\Debug\MenuStrip_Assignment.Form1.resources
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\obj\Debug\MenuStrip_Assignment.Properties.Resources.resources
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\obj\Debug\MenuStrip Assignment.csproj.GenerateResource.cache
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\obj\Debug\MenuStrip Assignment.csproj.CoreCompileInputs.cache
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\obj\Debug\MenuStrip Assignment.exe
+C:\Users\deank\source\repos\MenuStrip Assignment\MenuStrip Assignment\obj\Debug\MenuStrip Assignment.pdb
