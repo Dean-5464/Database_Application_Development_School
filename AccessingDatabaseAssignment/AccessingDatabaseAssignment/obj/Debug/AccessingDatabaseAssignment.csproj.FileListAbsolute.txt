@@ -1,0 +1,10 @@
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\bin\Debug\AccessingDatabaseAssignment.exe.config
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\bin\Debug\AccessingDatabaseAssignment.exe
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\bin\Debug\AccessingDatabaseAssignment.pdb
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.csprojAssemblyReference.cache
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.Form1.resources
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.Properties.Resources.resources
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.csproj.GenerateResource.cache
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.csproj.CoreCompileInputs.cache
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.exe
+C:\Users\deank\source\repos\AccessingDatabaseAssignment\AccessingDatabaseAssignment\obj\Debug\AccessingDatabaseAssignment.pdb
