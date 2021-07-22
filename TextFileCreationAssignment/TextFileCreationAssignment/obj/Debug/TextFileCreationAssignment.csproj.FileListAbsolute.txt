@@ -1,0 +1,10 @@
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\bin\Debug\TextFileCreationAssignment.exe.config
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\bin\Debug\TextFileCreationAssignment.exe
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\bin\Debug\TextFileCreationAssignment.pdb
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.csprojAssemblyReference.cache
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.Form1.resources
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.Properties.Resources.resources
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.csproj.GenerateResource.cache
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.exe
+C:\Users\deank\source\repos\TextFileCreationAssignment\TextFileCreationAssignment\obj\Debug\TextFileCreationAssignment.pdb
